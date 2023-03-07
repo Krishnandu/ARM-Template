@@ -5,7 +5,7 @@
     "resources": [
         {
             "type": "Microsoft.Resources/resourceGroups",
-            "apiVersion": "2022-02-01",
+            "apiVersion": "2022-12-01",
             "name": "Azure-DevOps-Release-Pipeline",
             "location": "eastus",
             "tags": {
